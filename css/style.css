@@ -1,0 +1,77 @@
+/* header style start*/
+/* header style end*/
+
+/*slider style start*/
+/*slider style end*/
+
+/*card style start*/
+.card{
+	margin-top: 50px;
+	border: transparent !important;
+}
+/*card style end*/
+
+/*from start*/
+.from1{
+	margin-top: 50px;
+}
+/*from end*/
+
+
+/*modal start*/
+.modal22{
+	margin-top: 50px;
+	border: 2px dotted gray;
+	min-height: 150px;
+	width: 80%;
+	margin-left: 10%;
+	padding: 50px 50px;
+}
+/*modal end*/
+
+
+/*progress bar start*/
+.pro_bar{
+	margin-top: 60px;
+}
+.custom_pro{
+	margin-bottom: 20px;
+}
+/*progress bar end*/
+
+/*button start*/
+.batton_custom{
+	margin-top: 60px;
+}
+.custom_but{
+	margin-top: 20px;
+}
+/*button end*/
+
+/*jombaton*/
+.jombaton_cus{
+	margin-top: 20px;
+}
+/*jombaton end*/
+
+
+.badge_cus{
+	margin-top: 20px;
+}
+.cus_paje{
+	margin-top: 20px;
+}
+.cus_nation{
+	float: right;
+}
+.custom_foot{
+	margin-top: 40px;
+	border: 1px solid black;
+	min-height: 200px;
+	background-color: black;
+	color: white;
+}
+.custom_foot h1{
+	text-align: center;
+	margin: 100px 0;
+}
